@@ -1,0 +1,8 @@
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\obj\Debug\lab1_creating_classes.csproj.AssemblyReference.cache
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\obj\Debug\lab1_creating_classes.csproj.SuggestedBindingRedirects.cache
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\obj\Debug\lab1_creating_classes.csproj.CoreCompileInputs.cache
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\bin\Debug\lab1_creating_classes.exe.config
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\bin\Debug\lab1_creating_classes.exe
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\bin\Debug\lab1_creating_classes.pdb
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\obj\Debug\lab1_creating_classes.exe
+D:\SD SEM 2\OOPS - 2\Lab1\lab1_creating_classes\lab1_creating_classes\obj\Debug\lab1_creating_classes.pdb
